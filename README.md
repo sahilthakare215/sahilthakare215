@@ -3,8 +3,7 @@ I'm a Web Developer and Blockchain Engineer, diving deep into the gaming industr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](📧 [Email Me](mailto:sahilthakre05@gmail.com)
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
 
 
 # 💻 Tech Stack:
