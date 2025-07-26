@@ -1,5 +1,5 @@
 # 🚀 Hey there! I'm Sahil Thakare:
-I'm a Web Developer and Blockchain Engineer, diving deep into the gaming industry with Unreal Engine. I also have a strong grasp of Data Science and Machine Learning, constantly exploring innovative solutions at the intersection of tech and creativity. 🚀<br>
+Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web magic with Three.js & GSAP. 🚀<br>
 
 
 ## 🌐 Socials:
