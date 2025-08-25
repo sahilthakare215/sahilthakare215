@@ -1,6 +1,9 @@
 # 🚀 Hey there! I'm Sahil Thakare:
 Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web magic with Three.js & GSAP. 🚀<br>
 
+                                      "I don’t push code. I drop payloads"
+                         "Breaking bugs and shipping features like it’s a contact sport"
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
