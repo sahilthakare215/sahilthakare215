@@ -10,6 +10,7 @@
 
 ## 🛠️ Skills
 <p align="center">
+  <!-- Example skills, all black color -->
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,14 +24,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilthakare215&show_icons=true&bg_color=0d1117&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&hide_border=true" alt="Sahil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilthakare215&show_icons=true&theme=dark" alt="Sahil's GitHub stats" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=black-ice&ring=ffcc00&fire=ffcc00&currStreakLabel=ffcc00&hide_border=true" alt="Sahil's streak" />
+  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=dark&hide_border=true" alt="Sahil's streak" />
 </p>
 
 ---
@@ -38,7 +39,7 @@
 ## 📈 Activity Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=ffcc00&point=ffcc00&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=ffcc00&point=ffffff&area=true&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=ffcc00&point=000000&area=true&hide_border=true">
     <img alt="Sahil's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=ffcc00&point=000000&area=true&hide_border=true">
   </picture>
