@@ -16,11 +16,18 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ---
 
 <div align="center">
-  <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
-  <!-- Streak stats (white theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilthakare215&theme=default&hide_border=true" height="150" alt="streak graph" />
+<!-- Language stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+<!-- Custom Streak (manual badges) -->
+<h3>🔥 GitHub Streak</h3>
+<p>
+  <img src="https://img.shields.io/badge/Current_Streak-15-white?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-30-white?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Total_Commits-500+-white?style=for-the-badge&logo=github&logoColor=000000"/>
+</p>
+
 </div>
 
 ---
