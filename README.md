@@ -1,61 +1,99 @@
-<h1 align="center">Hi 👋, I'm Sahil Thakare</h1>
-<h3 align="center">Software Developer | Breaking bugs and shipping features like it’s a contact sport</h3>
+# 🚀 Hey there! I'm Sahil Thakare:
+Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web magic with Three.js & GSAP. 🚀<br>
 
-<!-- Animated Quotes -->
-<p align="center">
-  <img src="./assets/animated-quotes.svg" alt="Animated Quotes" />
-</p>
+                                                 "I don’t push code. I drop payloads"
+                                 "Breaking bugs and shipping features like it’s a contact sport"
 
----
 
-## 🛠️ Skills
-<p align="center">
-  <!-- Example skills, all black color -->
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilthakare215&show_icons=true&theme=dark" alt="Sahil's GitHub stats" />
-</p>
+<!-- Updated Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=fdd835&point=fbc02d&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
+  <img alt="Sahil's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
+</picture>
 
----
+###
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=dark&hide_border=true" alt="Sahil's streak" />
-</p>
+<div align="center">
+  <!-- Language stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=yellow-green&hide_border=true" height="150" alt="languages graph" />
+
+  <!-- Streak stats -->
+  <img src="https://streak-stats.vercel.app?user=sahilthakare215&theme=yellow-dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sahilthakare215&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Activity Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=ffcc00&point=ffffff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=ffcc00&point=000000&area=true&hide_border=true">
-    <img alt="Sahil's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=ffcc00&point=000000&area=true&hide_border=true">
-  </picture>
+
+<h2 align="left">🧰 Skills</h2>
+
+<!-- Web Development -->
+<h3>Web Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Nodemon-000000?style=for-the-badge&logo=nodemon&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cookies-000000?style=for-the-badge&logo=cookiecutter&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
 </p>
 
----
+<!-- Deployment -->
+<h3>Deployment</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;
+</p>
 
-## 📫 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/sahilthakare215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sahilthakare215" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sahilthakare215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<!-- 3D Creation -->
+<h3>3D Creation</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white"/>&nbsp;
+</p>
+
+<!-- DSA Languages -->
+<h3>DSA Languages</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+</p>
+
+<!-- Generative AI -->
+<h3>Generative AI</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+</p>
+
+<!-- Version Control -->
+<h3>Version Control</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
 </p>
