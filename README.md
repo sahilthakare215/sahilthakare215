@@ -9,6 +9,7 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
 
 
+<!-- Updated Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=fdd835&point=fbc02d&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
@@ -18,11 +19,12 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilthakare215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sahilthakare215&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+  <!-- Language stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=yellow-green&hide_border=true" height="150" alt="languages graph" />
 
-###
+  <!-- Streak stats (mirror link, Pac-Man theme) -->
+  <img src="https://streak-stats.vercel.app?user=sahilthakare215&theme=yellow-dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+</div>
 
 
 ### ✍️ Random Dev Quote
