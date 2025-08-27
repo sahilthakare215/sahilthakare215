@@ -1,31 +1,25 @@
 # 🚀 Hey there! I'm Sahil Thakare:
 Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web magic with Three.js & GSAP. 🚀<br>
 
-                                                 "I don’t push code. I drop payloads"
-                                 "Breaking bugs and shipping features like it’s a contact sport"
-
+<p align="center">
+  <b>"I don’t push code. I drop payloads"</b><br>
+  <b>"Breaking bugs and shipping features like it’s a contact sport"</b>
+</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/)  
 
-
-<!-- Updated Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=fdd835&point=fbc02d&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
-  <img alt="Sahil's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
-</picture>
-
-###
+---
 
 <div align="center">
-  <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=yellow-green&hide_border=true" height="150" alt="languages graph" />
+  <!-- Language stats (black theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
 
-  <!-- Streak stats -->
-  <img src="https://streak-stats.vercel.app?user=sahilthakare215&theme=yellow-dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <!-- Streak stats (black theme) -->
+  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" height="150" alt="streak graph" />
 </div>
 
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -33,6 +27,7 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilthakare215&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 
 <h2 align="left">🧰 Skills</h2>
 
@@ -96,6 +91,4 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-
-
-                                            
+</p>
