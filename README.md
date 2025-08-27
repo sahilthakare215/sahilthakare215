@@ -9,13 +9,10 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/) 
 
 
-
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilthakare215/sahilthakare215/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilthakare215/sahilthakare215/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahilthakare215/sahilthakare215/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=0d1117&color=ffffff&line=fdd835&point=fbc02d&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
+  <img alt="Sahil's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthakare215&bg_color=ffffff&color=000000&line=fdd835&point=fbc02d&area=true&hide_border=true">
 </picture>
 
 ###
@@ -28,20 +25,11 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ###
 
 
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilthakare215&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
 
 
 <h2 align="left">🧰 Skills</h2>
