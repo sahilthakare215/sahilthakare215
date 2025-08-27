@@ -3,7 +3,7 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 
 <p align="center">
   <strong>
-    <span id="payload-quotes" style="font-size:18px;">
+    <span style="font-size:18px;">
       "I don’t push code. I drop payloads"<br>
       "Breaking bugs and shipping features like it’s a contact sport"
     </span>
@@ -19,13 +19,13 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
   <!-- Language stats in black -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
 
-  <!-- Streak stats in black -->
-  <img src="https://streak-stats.demolab.com?user=sahilthakare215&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
+  <!-- Streak stats in black (fixed) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilthakare215&theme=black-ice&hide_border=true&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="streak graph" />
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=sahilthakare215&icon=0&color=0)](https://visitcount.itsvg.in)
