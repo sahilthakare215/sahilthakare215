@@ -42,12 +42,8 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilthakare215&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<!-- ========== SKILLS (ICON GRID) ========== -->
 <h2 align="left">🧰 Skills</h2>
 
-<!-- Tip: change width/height to 42/36 if you want smaller icons -->
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48"/>&nbsp;
@@ -59,7 +55,7 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="48" height="48"/>&nbsp;
 
   <!-- State / Data -->
@@ -90,22 +86,6 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" title="Ethereum" alt="Ethereum" width="48" height="48"/>&nbsp;
 </p>
-
-<!-- ========== EXTRAS (BADGES) ========== -->
-<!-- For techs without Devicon icons, use badges -->
-<p>
-  <!-- LangChain / LangGraph / RAG / GSAP / JWT -->
-  <img src="https://img.shields.io/badge/LangChain-0B3B61?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNMTEgMTZIMjEiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIi8+PHBhdGggZD0iTTE2IDExVjIxIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPjwvc3ZnPg==" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&labelColor=111827" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-6C2BD9?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" alt="GSAP" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" alt="JWT" />
-</p>
-
-
-  
-
-
 
 
 
