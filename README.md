@@ -16,11 +16,9 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 ---
 
 <div align="center">
-  <!-- Language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
-  <!-- Streak stats (white theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilthakare215&theme=default&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=default&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
@@ -34,7 +32,6 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 
 <h2 align="left">🧰 Skills</h2>
 
-<!-- Web Development -->
 <h3>Web Development</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
@@ -59,37 +56,32 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
 </p>
 
-<!-- Deployment -->
 <h3>Deployment</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;
 </p>
 
-<!-- 3D Creation -->
 <h3>3D Creation</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>&nbsp;
 </p>
 
-<!-- DSA Languages -->
 <h3>DSA Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 </p>
 
-<!-- Generative AI -->
 <h3>Generative AI</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
 </p>
 
-<!-- Version Control -->
 <h3>Version Control</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
