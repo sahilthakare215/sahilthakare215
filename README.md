@@ -11,14 +11,16 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thakare-6512b1332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sahil-thakare-6512b1332/)
 
 ---
 
 <div align="center">
+  <!-- Language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakare215&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
-  <img src="https://streak-stats.demolab.com?user=sahilthakare215&theme=default&hide_border=true" height="150" alt="streak graph" />
+  <!-- Streak stats (white theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilthakare215&theme=default&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
@@ -32,58 +34,64 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 
 <h2 align="left">🧰 Skills</h2>
 
+<!-- Web Development -->
 <h3>Web Development</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cookies-FFCC00?style=for-the-badge&logo=cookiecutter&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC"/>&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>&nbsp;
+  <img src="https://img.shields.io/badge/Three.js-ffffff?style=for-the-badge&logo=three.js&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/GSAP-ffffff?style=for-the-badge&logo=greensock&logoColor=88CE02"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF"/>&nbsp;
+  <img src="https://img.shields.io/badge/WebGL-ffffff?style=for-the-badge&logo=webgl&logoColor=990000"/>&nbsp;
+  <img src="https://img.shields.io/badge/Context_API-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/Nodemon-ffffff?style=for-the-badge&logo=nodemon&logoColor=76D04B"/>&nbsp;
+  <img src="https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837"/>&nbsp;
+  <img src="https://img.shields.io/badge/JWT-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cookies-ffffff?style=for-the-badge&logo=cookiecutter&logoColor=FFCC00"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37"/>&nbsp;
 </p>
 
+<!-- Deployment -->
 <h3>Deployment</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>&nbsp;
 </p>
 
+<!-- 3D Creation -->
 <h3>3D Creation</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Blender-ffffff?style=for-the-badge&logo=blender&logoColor=F5792A"/>&nbsp;
 </p>
 
+<!-- DSA Languages -->
 <h3>DSA Languages</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB"/>&nbsp;
 </p>
 
+<!-- Generative AI -->
 <h3>Generative AI</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-  <img src="https://img.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Generative_AI-ffffff?style=for-the-badge&logo=openai&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=openai&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-ffffff?style=for-the-badge&logo=openai&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/RAG-ffffff?style=for-the-badge&logo=openai&logoColor=000000"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-ffffff?style=for-the-badge&logo=openai&logoColor=000000"/>&nbsp;
 </p>
 
+<!-- Version Control -->
 <h3>Version Control</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717"/>&nbsp;
 </p>
