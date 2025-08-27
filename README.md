@@ -49,9 +49,10 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
 
 
 <h2 align="left">🧰 Skills</h2>
-<p align="left">
 
-  <!-- Web Development -->
+<!-- Web Development -->
+<h3>Web Development</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
@@ -72,27 +73,41 @@ Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web ma
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT" height="32"/>&nbsp;
   <img src="https://img.shields.io/badge/Cookies-FFCA28?style=for-the-badge&logo=cookiecutter&logoColor=black" title="Cookies" alt="Cookies" height="32"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>&nbsp;
+</p>
 
-  <!-- Deployment -->
+<!-- Deployment -->
+<h3>Deployment</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="48" height="48"/>&nbsp;
+</p>
 
-  <!-- 3D Creation -->
+<!-- 3D Creation -->
+<h3>3D Creation</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="48" height="48"/>&nbsp;
+</p>
 
-  <!-- DSA Languages -->
+<!-- DSA Languages -->
+<h3>DSA Languages</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48"/>&nbsp;
+</p>
 
-  <!-- Generative AI -->
+<!-- Generative AI -->
+<h3>Generative AI</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" title="Generative AI" alt="Generative AI" height="32"/>&nbsp;
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white" title="LangChain" alt="LangChain" height="32"/>&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white" title="LangGraph" alt="LangGraph" height="32"/>&nbsp;
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" title="RAG" alt="RAG" height="32"/>&nbsp;
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" title="LLMs" alt="LLMs" height="32"/>&nbsp;
+</p>
 
-  <!-- Version Control -->
+<!-- Version Control -->
+<h3>Version Control</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="48" height="48"/>&nbsp;
-
 </p>
