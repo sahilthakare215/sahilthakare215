@@ -1,5 +1,5 @@
 # 🚀 Hey there! I'm Sahil Thakare:
-Web developer diving into GenAI, LangChain, LangGraph & RAG—crafting 3D web magic with Three.js & GSAP. 🚀<br>
+Advanced AI Systems (RAG • LangChain • LLMs) | Data Analysis & Statistics | Full-Stack Web Developer | Advanced Motion UI Design🚀<br>
 
 <p align="center">
   <strong>
